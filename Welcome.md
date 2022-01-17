@@ -9,5 +9,7 @@ GA
 
 <br>
 <br>
+<br>
+<br>
 
-![](./post1/LOGO_GA3D_banniere.png)
+![](./wp-content/uploads/LOGO_GA3D_banniere.png)
